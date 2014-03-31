@@ -1,4 +1,5 @@
-Turn your Github Gist into blog posts. [Dmeo](http://blog.kidliaa.com/)
+This is BLOGIST. 
+Turn your Github Gist into blog posts. [DEMO](http://blog.kidliaa.com/)
 
 ## How BLOGIST works:
 
@@ -17,3 +18,4 @@ So you can do anything you want to do base on BLOGIST heart with the facilities 
 TODO:
 
 * design and write a theme
+* reconstruct the app structure
